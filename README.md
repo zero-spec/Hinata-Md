@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-ryuuMD](https://wa.me/6289505329516)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,9 +68,10 @@ npm start
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/Riy20)
+- [Saweria](https://saweria.co/gapunyabanh)
 
 # Thanks to
+- Yuda O'Ryuu
 - Irfan H.
 - Fadly ID
 - Yog Ganz
